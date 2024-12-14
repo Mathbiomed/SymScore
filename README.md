@@ -1,8 +1,6 @@
 # SymScore
 A symbolic regression-based tool for generating interpretable and accurate score tables for shortened clinical questionnaires
 
-# SymScore
-A symbolic regression-based tool for generating interpretable and accurate score tables for shortened clinical questionnaires
 
 # Input the excel file containing survey response
 Simply input the name of the Excel file containing the survey response. For example:
